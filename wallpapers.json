@@ -1,0 +1,221 @@
+{
+  "hits": [
+{
+      "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/surprise.jpg",
+      "CategoryName": "Surprise"
+    },
+
+    {
+      "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Flame.JPG",
+      "CategoryName": "Flame"
+    },
+    {
+      "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Fashion.JPG",
+      "CategoryName": "Fashion"
+    },
+    {
+      "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Fitness.JPG",
+      "CategoryName": "Fitness"
+    },
+    {
+      "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Ethnic.JPG",
+      "CategoryName": "Ethnic"
+    }
+    
+  ],
+  "Categories": [
+    {
+"Surprise": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/ear1.JPG",
+          "name": "Surprise"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/ear2.JPG",
+          "name": "Surprise"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/ear3.JPG",
+          "name": "Surprise"
+        }
+],
+"Flame": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/10.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/11.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/12.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/13.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/14.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/15.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/29.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/30.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/31.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/32.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/33.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/33.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/34.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/35.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/36.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/37.jpg",
+          "name": "Flame"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/38.jpg",
+          "name": "Flame"
+        }
+      ],
+      "Fashion": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/3.jpg",
+          "name": "Fashion"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/4.jpg",
+          "name": "Fashion"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/5.jpg",
+          "name": "Fashion"
+        },
+         {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/6.jpg",
+          "name": "Fashion"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/7.jpg",
+          "name": "Fashion"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/8.jpg",
+          "name": "Fashion"
+        },
+         {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/9.jpg",
+          "name": "Fashion"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/39.jpg",
+          "name": "Fashion"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/40.jpg",
+          "name": "Fashion"
+        },
+         {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/41.jpg",
+          "name": "Fashion"
+        }
+      ],
+      "Fitness": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/16.jpg",
+          "name": "Fitness"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/17.jpg",
+          "name": "Fitness"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/18.jpg",
+          "name": "Fitness"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/19.jpg",
+          "name": "Fitness"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/20.jpg",
+          "name": "Fitness"
+        }
+      ],
+      "Ethnic": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/1.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/2.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/21.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/22.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/23.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/24.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/25.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/26.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/27.jpg",
+          "name": "Ethnic"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/28.jpg",
+          "name": "Ethnic"
+        }
+        
+      ]
+    }
+  ]
+}
